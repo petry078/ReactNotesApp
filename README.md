@@ -12,4 +12,11 @@ This mean it will be saved locally, on clients browser.
 
 ![](proof.png)
 
+## Raw React Files
+
+after git clone https://github.com/petry078/ReactNotesApp.git:
+
+* cd raw;
+* npm install;
+* npm start.
 
