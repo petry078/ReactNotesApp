@@ -19,4 +19,3 @@ after git clone https://github.com/petry078/ReactNotesApp.git:
 * cd raw;
 * npm install;
 * npm start.
-
