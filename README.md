@@ -14,7 +14,7 @@ This mean it will be saved locally, on clients browser.
 
 ## Raw React Files
 
-after git clone https://github.com/petry078/ReactNotesApp.git:
+after git clone https://github.com/petry078/ReactNotesDev.git:
 
 * cd raw;
 * npm install;
